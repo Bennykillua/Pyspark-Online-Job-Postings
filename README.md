@@ -18,3 +18,5 @@ The dataset consists of 19,000 job postings that were posted through the Armenia
 
 You can get more information [here](https://github.com/Bennykillua/Pyspark-Online-Job-Postings/blob/main/Dataset/README.md)
 
+## Exploratory data analysis
+
