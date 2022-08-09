@@ -3,7 +3,7 @@
 
 This repo was created for the [HDSC’ 22 Premier Project: Real Life Machine Learning Topics](https://api.hamoye.com/sendysender/l/bfNd3ossWVAES87vCpnwgg/SmoYFUIj7pYjjoK0FVC7VQ/8eHaog4Z3g2q763V7ojAMh892Q)
 
-View our list of contributors [here]()
+View our list of contributors [here](https://github.com/Bennykillua/Pyspark-Online-Job-Postings/blob/main/Contributor.md)
 
 ## Project Details
 
