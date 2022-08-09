@@ -15,7 +15,7 @@ Jobs and Career
 
 The labor market is continuously evolving with the use of technology to advertise job openings, hence, the need to understand the demand for certain professions and job titles. There is also a need to identify skills that are most frequently required by employers, how the distribution of necessary skills changes over time, and make recommendations to job seekers and employers. 
 
-See more about the provided dataset [here](https://github.com/Bennykillua/Pyspark-Online-Job-Postings/tree/main/Dataset)
+Learn more about the dataset [here](https://github.com/Bennykillua/Pyspark-Online-Job-Postings/tree/main/Dataset)
 
 ### Acknowledgements
 The data collection and initial research was funded by the American University of Armenia’s research grant (2015).
