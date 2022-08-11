@@ -12,4 +12,4 @@ To add you name, follow this order: [name and GitHub username](www.https://githu
 - [Josiah, Josiah-Adesola](https://github.com/josiah-adesola)
 - [Benny, Bennykillua](https://github.com/Bennykillua)
 - [Fareed, FareedZibiri](https://github.com/FareedZibiri)
-- [XVI-IX](https://github.com/XVI-IX)
+- [David-Daniel, XVI-IX](https://github.com/XVI-IX)
