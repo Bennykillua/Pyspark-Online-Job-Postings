@@ -7,9 +7,7 @@ View our list of contributors [here](https://github.com/Bennykillua/Pyspark-Onli
 
 ## Project Details
 
-### Scope
-
-Jobs and Career
+### Scope: Jobs and Career
 
 ## Project Description
 
