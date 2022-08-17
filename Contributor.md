@@ -10,6 +10,6 @@ Without contributions, a lot of technology you use today wouldn't matter.
 To add you name, follow this order: [name and GitHub username](www.https://github.com/)
 
 - [Josiah, Josiah-Adesola](https://github.com/josiah-adesola)
-- [Benny, Bennykillua](https://github.com/Bennykillua)
+- [Benny Ifeanyi, Bennykillua](https://github.com/Bennykillua)
 - [Fareed, FareedZibiri](https://github.com/FareedZibiri)
 - [David-Daniel, XVI-IX](https://github.com/XVI-IX)
