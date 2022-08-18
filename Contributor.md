@@ -13,3 +13,4 @@ To add you name, follow this order: [name and GitHub username](www.https://githu
 - [Benny Ifeanyi, Bennykillua](https://github.com/Bennykillua)
 - [Fareed, FareedZibiri](https://github.com/FareedZibiri)
 - [David-Daniel, XVI-IX](https://github.com/XVI-IX)
+- [Theophilus, teewryte](https://github.com/teewryte)
